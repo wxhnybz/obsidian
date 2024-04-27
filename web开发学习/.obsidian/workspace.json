@@ -1,0 +1,263 @@
+{
+  "main": {
+    "id": "89ec7a7a2f36ba7b",
+    "type": "split",
+    "children": [
+      {
+        "id": "97228bdfe998e961",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a7cd8e71262c4e57",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "前端进阶/二次封装axios.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "52aa6c05e1c6bbd0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "前端进阶/重绘和重排.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "79dfd923f8eac1bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "前端进阶/内联样式的块级元素，行内元素和空元素.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6902f41bdc7cf855",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "前端进阶/重绘和重排.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2e64122631a36a9e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "面经/美团/面试美团前的一些总结.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "838b192a2ba2db24",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "前端进阶/webpack相关.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4b56722312cce02d",
+    "type": "split",
+    "children": [
+      {
+        "id": "c30efe9b9d514ea2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cc1701eb8798534f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabeticalReverse"
+              }
+            }
+          },
+          {
+            "id": "da334da107feee89",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "阻断",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ed47d3a355015c6a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "04d69932a8c7128c",
+    "type": "split",
+    "children": [
+      {
+        "id": "6cc6475fe519e65b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1b26f8086d60f6fb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "前端进阶/webpack相关.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "79a5fc9e213f9f2d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "前端进阶/webpack相关.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3accc4c259412600",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "e328eb2f147fa372",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "前端进阶/webpack相关.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "command-palette:打开命令面板": false,
+      "templates:插入模板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "workspaces:管理工作区布局": false,
+      "audio-recorder:开始/结束录音": false
+    }
+  },
+  "active": "838b192a2ba2db24",
+  "lastOpenFiles": [
+    "NEW/map和foreach.md",
+    "面经/美团/面试美团前的一些总结.md",
+    "前端进阶/重绘和重排.md",
+    "前端进阶/内联样式的块级元素，行内元素和空元素.md",
+    "前端进阶/二次封装axios.md",
+    "前端进阶/webpack相关.md",
+    "未命名",
+    "面经/美团",
+    "面经",
+    "attachment/Pasted image 20240418221805.png",
+    "attachment/Pasted image 20240418221724.png",
+    "前端进阶/闭包.md",
+    "未命名.canvas",
+    "vue/未命名 1.canvas",
+    "前端进阶/再看vue.md",
+    "前端进阶",
+    "react/redux之于react.md",
+    "react/初识react.md",
+    "react/组件component.md",
+    "react/react路由.md",
+    "vue",
+    "前端/kof项目.md",
+    "前端/组件的生命周期.md",
+    "前端/Slot插槽.md",
+    "前端/JS.md",
+    "前端/promise.md",
+    "算法/哈希表.md",
+    "算法/力扣.md",
+    "算法/面试常问的问题.md",
+    "算法/小记.md",
+    "算法/map和unordered_map.md",
+    "算法/set和unordered_set.md",
+    "数据库/数据库.md",
+    "数据库/redies.md",
+    "数据库/mysql/mysql.md",
+    "react",
+    "attachment/Pasted image 20231027183728.png",
+    "attachment/Pasted image 20231003114126.png",
+    "attachment/Pasted image 20230922100830.png",
+    "attachment/Pasted image 20230921153356.png",
+    "attachment/Recording 20230918180237.webm",
+    "attachment/Pasted image 20240115204944.png",
+    "前端/js常用库",
+    "attachment/Pasted image 20231110174123.png",
+    "attachment/Pasted image 20231110174056.png",
+    "attachment/Pasted image 20231102103504.png",
+    "正则表达式",
+    "数据库/mysql"
+  ]
+}

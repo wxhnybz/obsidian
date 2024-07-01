@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "react/组件通信.md",
+                "file": "实习/7-1学习日志.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "前端/JS.md",
+                "file": "实习/7-1学习日志.md",
                 "mode": "source",
                 "source": false
               }
@@ -55,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -121,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "react/组件通信.md",
+                "file": "实习/7-1学习日志.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "react/组件通信.md",
+                "file": "实习/7-1学习日志.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -161,12 +162,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "react/组件通信.md"
+                "file": "实习/7-1学习日志.md"
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -184,22 +185,24 @@
       "audio-recorder:开始/结束录音": false
     }
   },
-  "active": "794e316e6ad8844d",
+  "active": "1939b3c79539bc07",
   "lastOpenFiles": [
-    "react/组件component.md",
+    "实习/截屏2024-06-27 19.39.37.png",
+    "前端/JS.md",
+    "实习/7-1学习日志.md",
+    "实习/截屏2024-06-27 19.39.06.png",
+    "实习/6-28学习日志.md",
+    "实习/6-26学习日志.md",
+    "实习/6-27学习日志.md",
     "react/组件通信.md",
+    "react/组件component.md",
     "react/redux之于react.md",
     "react/react路由.md",
     "react/初识react.md",
-    "实习/6-27学习日志.md",
-    "实习/6-26学习日志.md",
     "实习/6-25学习日志.md",
     "实习/实习学习/实习学习.md",
     "实习/资料/截屏2024-06-25 14.17.10.png",
-    "实习/截屏2024-06-27 19.39.37.png",
-    "实习/截屏2024-06-27 19.39.06.png",
     "NEW/6-26需求对接.md",
-    "前端/JS.md",
     "react/react Hooks.md",
     "前端/CSS.md",
     "前端/组件的生命周期.md",
@@ -216,9 +219,6 @@
     "实习/资料",
     "实习/实习学习",
     "实习/未命名.canvas",
-    "前端进阶/内联样式的块级元素，行内元素和空元素.md",
-    "面经/美团/面试美团前的一些总结.md",
-    "前端进阶/webpack相关.md",
     "实习",
     "面经/美团",
     "面经",

@@ -13,50 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "实习/7-1学习日志.md",
+                "file": "实习/7-2学习日志.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "adfe8eea06bca380",
+            "id": "06ea866330b3cfac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "实习/6-26学习日志.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1939b3c79539bc07",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "实习/7-1学习日志.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "220778952c79e4a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NEW/6-26需求对接.md",
+                "file": "实习/7-3学习日志.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "实习/7-1学习日志.md",
+                "file": "实习/7-3学习日志.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "实习/7-1学习日志.md",
+                "file": "实习/7-3学习日志.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "实习/7-1学习日志.md"
+                "file": "实习/7-3学习日志.md"
               }
             }
           }
@@ -185,24 +161,27 @@
       "audio-recorder:开始/结束录音": false
     }
   },
-  "active": "1939b3c79539bc07",
+  "active": "06ea866330b3cfac",
   "lastOpenFiles": [
-    "实习/截屏2024-06-27 19.39.37.png",
-    "前端/JS.md",
+    "实习/7-2学习日志.md",
+    "实习/7-3学习日志.md",
     "实习/7-1学习日志.md",
-    "实习/截屏2024-06-27 19.39.06.png",
     "实习/6-28学习日志.md",
-    "实习/6-26学习日志.md",
     "实习/6-27学习日志.md",
+    "实习/6-26学习日志.md",
+    "实习/6-25学习日志.md",
+    "实习/截屏2024-07-03 10.40.58.png",
+    "实习/截屏2024-06-27 19.39.37.png",
+    "实习/截屏2024-06-27 19.39.06.png",
+    "NEW/6-26需求对接.md",
+    "前端/JS.md",
     "react/组件通信.md",
     "react/组件component.md",
     "react/redux之于react.md",
     "react/react路由.md",
     "react/初识react.md",
-    "实习/6-25学习日志.md",
     "实习/实习学习/实习学习.md",
     "实习/资料/截屏2024-06-25 14.17.10.png",
-    "NEW/6-26需求对接.md",
     "react/react Hooks.md",
     "前端/CSS.md",
     "前端/组件的生命周期.md",
@@ -214,8 +193,6 @@
     "前端/JS的一些常用的库.md",
     "前端/js常用库/WebSocket.md",
     "前端进阶/重绘和重排.md",
-    "前端进阶/less.md",
-    "前端进阶/立刻执行函数.md",
     "实习/资料",
     "实习/实习学习",
     "实习/未命名.canvas",
@@ -232,7 +209,6 @@
     "attachment/Pasted image 20231003114126.png",
     "attachment/Pasted image 20230922100830.png",
     "attachment/Pasted image 20230921153356.png",
-    "attachment/Recording 20230918180237.webm",
-    "attachment/Pasted image 20240115204944.png"
+    "attachment/Recording 20230918180237.webm"
   ]
 }

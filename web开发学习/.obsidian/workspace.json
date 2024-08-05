@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "794e316e6ad8844d",
+            "id": "30c7dcbd29aa518c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "实习/7-2学习日志.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "06ea866330b3cfac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "实习/7-3学习日志.md",
+                "file": "实习/实习日志/8-2学习日志.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "阻断",
+                "query": "可控",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "实习/7-3学习日志.md",
+                "file": "实习/实习日志/8-2学习日志.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "实习/7-3学习日志.md",
+                "file": "实习/实习日志/8-2学习日志.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "实习/7-3学习日志.md"
+                "file": "实习/实习日志/8-2学习日志.md"
               }
             }
           }
@@ -161,54 +148,56 @@
       "audio-recorder:开始/结束录音": false
     }
   },
-  "active": "06ea866330b3cfac",
+  "active": "30c7dcbd29aa518c",
   "lastOpenFiles": [
-    "实习/7-2学习日志.md",
-    "实习/7-3学习日志.md",
-    "实习/7-1学习日志.md",
-    "实习/6-28学习日志.md",
-    "实习/6-27学习日志.md",
-    "实习/6-26学习日志.md",
-    "实习/6-25学习日志.md",
-    "实习/截屏2024-07-03 10.40.58.png",
-    "实习/截屏2024-06-27 19.39.37.png",
-    "实习/截屏2024-06-27 19.39.06.png",
-    "NEW/6-26需求对接.md",
-    "前端/JS.md",
-    "react/组件通信.md",
-    "react/组件component.md",
-    "react/redux之于react.md",
-    "react/react路由.md",
-    "react/初识react.md",
-    "实习/实习学习/实习学习.md",
-    "实习/资料/截屏2024-06-25 14.17.10.png",
-    "react/react Hooks.md",
-    "前端/CSS.md",
-    "前端/组件的生命周期.md",
-    "前端/组合式vue学习.md",
-    "前端/js阅读代码.md",
-    "前端/kof项目.md",
-    "前端/Ts常用.md",
+    "实习/实习日志/7-31学习日志.md",
+    "实习/实习日志/8-2学习日志.md",
+    "实习/8-1学习日志.md",
+    "实习/Pasted image 20240801111208.png",
+    "实习/实习日志/7-2学习日志.md",
+    "实习/实习日志/7-29实习日志.md",
+    "实习/实习日志/7-30学习日志.md",
+    "实习/实习日志/Pasted image 20240722140838.png",
+    "实习/实习日志/7-16学习日志.md",
+    "实习/实习日志/7-22学习日志.md",
+    "实习/实习日志/7-24学习日志.md",
+    "实习/实习日志/7-25学习日志.md",
+    "实习/实习日志/7-9学习日志.md",
+    "实习/实习日志/7-26学习日志.md",
+    "实习/实习日志/7-23学习日志.md",
+    "实习/实习日志/7-19学习日志.md",
+    "实习/实习日志/Pasted image 20240724161437.png",
+    "实习/实习日志/7-15学习日志.md",
+    "实习/实习日志/7-17学习日志.md",
+    "实习/截屏2024-07-12 17.13.58.png",
+    "实习/资料/Pasted image 20240722140631.png",
+    "实习/web开发基础 -mt分享.md",
+    "实习/Recording 20240716185935.webm",
+    "实习/实习日志/7-10学习日志.md",
+    "算法/小记.md",
+    "算法/map和unordered_map.md",
+    "算法/set和unordered_set.md",
+    "实习/实习日志/7-18学习日志.md",
+    "实习/antd组件库的学习.md",
+    "实习/美团实习的日子.md",
+    "实习/实习日志/6-26学习日志.md",
+    "NEW/未命名 1.md",
     "未命名",
-    "前端/JS的一些常用的库.md",
-    "前端/js常用库/WebSocket.md",
-    "前端进阶/重绘和重排.md",
+    "实习/Recording 20240716171353.webm",
+    "实习/资料/Pasted image 20240704200129.png",
+    "实习/资料/截屏2024-06-27 19.39.06.png",
+    "实习/实习日志",
+    "未命名.canvas",
+    "实习/资料/截屏2024-06-27 19.39.37.png",
+    "实习/资料/截屏2024-07-05 14.55.30.png",
+    "实习/资料/截屏2024-07-03 10.40.58.png",
     "实习/资料",
     "实习/实习学习",
     "实习/未命名.canvas",
     "实习",
     "面经/美团",
     "面经",
-    "attachment/Pasted image 20240418221805.png",
-    "attachment/Pasted image 20240418221724.png",
     "vue/未命名 1.canvas",
-    "前端进阶",
-    "vue",
-    "react",
-    "attachment/Pasted image 20231027183728.png",
-    "attachment/Pasted image 20231003114126.png",
-    "attachment/Pasted image 20230922100830.png",
-    "attachment/Pasted image 20230921153356.png",
-    "attachment/Recording 20230918180237.webm"
+    "前端进阶"
   ]
 }
